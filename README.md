@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 我住在中国广东省深圳市福田区;
 我喜欢玩CSGO、冰与火之舞;
 我非常喜欢Python;
-欢迎加我的微信 : wsytbhsd;
+欢迎加我的微信和QQ : laojvzi2333, 3456933578@qq.com;
 
 <!---
 laojvzi/laojvzi是一个✨ 特殊的✨ 因为它是“自述文件”。md`（此文件）出现在您的GitHub配置文件中。
