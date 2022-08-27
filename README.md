@@ -6,7 +6,7 @@
 
 My name is Dream;
 I'm china boy;
-I'm 12 yers old this year;
+I'm 13 yers old this year;
 I live in Futian Shenzhen Guangdong China;
 I like play CSGO and Ice and Fair dance;
 I like python every much;
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 我的名字是Dream;
 我是中国男孩;
-我今年12岁;
+我今年13岁;
 我住在中国广东省深圳市福田区;
 我喜欢玩CSGO、冰与火之舞;
 我非常喜欢Python;
